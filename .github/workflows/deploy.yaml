@@ -1,5 +1,4 @@
 name: Build and deploy Nuxt site to Pages
-
 on:
   push:
     branches: [ main ]
